@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: httpshttps://dayliteengineering.co.ke//sitemap.xml
